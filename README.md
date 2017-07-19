@@ -1,8 +1,8 @@
 # PyWallet
 
 [![Join the chat at https://gitter.im/PyWallet/Lobby](https://badges.gitter.im/PyWallet/Lobby.svg)](https://gitter.im/PyWallet/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Build Status](https://secure.travis-ci.org/AndreMiras/PyWallet.png?branch=develop)](http://travis-ci.org/AndreMiras/PyWallet)
-[![Coverage Status](https://coveralls.io/repos/github/AndreMiras/PyWallet/badge.svg?branch=develop)](https://coveralls.io/github/AndreMiras/PyWallet?branch=develop)
+[![Build Status](https://secure.travis-ci.org/paulheider/PyWallet.png?branch=develop)](http://travis-ci.org/paulheider/PyWallet)
+[![Coverage Status](https://coveralls.io/repos/github/paulheider/PyWallet/badge.svg?branch=develop)](https://coveralls.io/github/paulheider/PyWallet?branch=develop)
 
 Cross platform Ethereum Wallet built with Python and Kivy.
 
